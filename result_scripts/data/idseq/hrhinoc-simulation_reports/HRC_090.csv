@@ -1,0 +1,3 @@
+tax_id,name,common_name,tax_level,species_taxid,genus_taxid,genus_name,family_taxid,category_name,is_phage,NT_r,NT_rpm,NT_zscore,NT_percentidentity,NT_alignmentlength,NT_neglogevalue,aggregatescore,NT_r_pct,NT_rpm_bg,NT_maxzscore,NR_r,NR_rpm,NR_zscore,NR_percentidentity,NR_alignmentlength,NR_neglogevalue,NR_r_pct,NR_rpm_bg,NR_maxzscore
+12059,Enterovirus,"",2,-100,12059,,12058,Viruses,0,8480,848000.0,100.0,90.005,6433.0,307.6526489,16960000000.0,100.0,0.0,100.0,8480,848000.0,100.0,78.488,2143.0,307.6526489,100.0,0.0,100.0
+463676,Rhinovirus C,"",1,463676,12059,,12058,Viruses,0,8480,848000.0,100.0,90.005,6433.0,307.6526489,16960000000.0,100.0,0.0,100.0,8480,848000.0,100.0,78.488,2143.0,307.6526489,100.0,0.0,100.0

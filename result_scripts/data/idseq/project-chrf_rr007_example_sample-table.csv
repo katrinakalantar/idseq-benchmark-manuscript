@@ -1,0 +1,4 @@
+sample_name,uploader,upload_date,overall_job_status,runtime_seconds,total_reads,nonhost_reads,nonhost_reads_percent,total_ercc_reads,subsampled_fraction,quality_control,compression_ratio,reads_after_star,reads_after_trimmomatic,reads_after_priceseq,reads_after_cdhitdup,sample_type,nucleotide_type,collection_location,host_genome,notes
+CHRF_RNA_0000_S97,Katrina Kalantar,2019-10-14 13:09:26 -0700,COMPLETE,10234.0,135087088,158152,0.117,130150782,1.0,42.021,4.67,4675916,3440016,1964846,421064,CSF,RNA,Bangladesh,Human,""
+CHRF_RNA_0002_S2,Katrina Kalantar,2019-10-14 13:26:48 -0700,COMPLETE,13454.0,141979356,2882741,2.03,14875054,0.687954,77.429,1.39,26802224,23770970,20752710,14968908,CSF,RNA,Bangladesh,Human,""
+CHRF_RNA_0094_S94,Katrina Kalantar,2019-10-14 13:00:30 -0700,COMPLETE,8980.0,61336096,414472,0.676,28094424,1.0,48.359,2.89,5227984,3341680,2528178,875816,CSF,RNA,Bangladesh,Human,""
